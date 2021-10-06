@@ -1,0 +1,25 @@
+/*!
+ * jQuery UI CSS Framework 1.10.3
+ * http://jqueryui.com
+ *
+ * Copyright 2013 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming
+ */
+@import url("jquerygrameen .ui.core.css");
+
+@import url("jquerygrameen .ui.accordion.css");
+@import url("jquerygrameen .ui.autocomplete.css");
+@import url("jquerygrameen .ui.button.css");
+@import url("jquerygrameen .ui.datepicker.css");
+@import url("jquerygrameen .ui.dialog.css");
+@import url("jquerygrameen .ui.menu.css");
+@import url("jquerygrameen .ui.progressbar.css");
+@import url("jquerygrameen .ui.resizable.css");
+@import url("jquerygrameen .ui.selectable.css");
+@import url("jquerygrameen .ui.slider.css");
+@import url("jquerygrameen .ui.spinner.css");
+@import url("jquerygrameen .ui.tabs.css");
+@import url("jquerygrameen .ui.tooltip.css");
